@@ -1,0 +1,9 @@
+{
+  "name": "予約票",
+  "short_name": "予約票",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#f5f5f7",
+  "theme_color": "#0a64c8",
+  "icons": [{"src": "yoyaku-icon-180.png", "sizes": "180x180", "type": "image/png"}]
+}
